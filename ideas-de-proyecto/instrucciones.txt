@@ -2,5 +2,4 @@ Escribir la idea en un simple .txt
 
 Poner nombre al principio de la idea
 
-
 Si ves una idea que te gusta dale una estrellita (arriba a la derecha 'star').
